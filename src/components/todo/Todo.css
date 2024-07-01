@@ -1,0 +1,40 @@
+.todoSection{
+    background-color: antiquewhite;
+    padding: 10px;
+    width: 280px;
+    margin: 10px auto;
+}
+.author{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.appHeader{
+    text-align: center;
+}
+.bigBtn{
+    background-color: blueviolet;
+    color: white;
+    display: block;
+    width: 150px;
+    height: 50px;
+    margin: 10px auto;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.iconBtn{
+    background-color: gray;
+    color: white;
+    width: 50px;
+    aspect-ratio: 2/1;
+    margin-left: 5px;
+    font-size: xx-small;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.todoInput{
+    width: 90%;
+    height: 50px;
+    margin: 10px auto;
+}
